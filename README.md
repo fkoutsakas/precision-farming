@@ -11,12 +11,12 @@
 ## Παραδοτέα
 Τα παραδοτέα της εργασίας περιλαμβάνουν
 - Φορητή διάταξη βασισμένη σε τεχνολογίες ανοιχτής αρχιτεκτονικής (Raspberry Pi) με δυνατότητα συλλογής δεδομένων πεδίου με τη χρήση κάμερας και αισθητήρων 
-- Μοντέλο μηχανικής μάθησης βασισμένο στην Google Teachable Machine με δυνατότητα αναγνώρισης επτά διαφορετικών ασθενειών της ελιάς 
+- Μοντέλο μηχανικής μάθησης βασισμένο στην Google Teachable Machine με δυνατότητα αναγνώρισης ασθενειών της ελιάς 
 - Ανακοίνωση στο 16ο Μαθητικό Συνέδριο Πληροφορικής Κεντρικής Μακεδονίας με τίτλο "Precision Farming: Η Τεχνητή Νοημοσύνη στην Υπηρεσία του Αγροτικού τομέα
--   η εισήγηση [ΕΔΩ](https://docs.google.com/document/d/1ohom8PYAwlr2c5kiDkHBa4sWxvi6IvCw/edit?usp=sharing&ouid=102187192160075608820&rtpof=true&sd=true)
--   η παρουσίαση [ΕΔΩ](https://docs.google.com/presentation/d/1qON_y1dBDeFcuuOoXocHfL4PGx_sD82t1_WqpAAiZqU/edit?usp=sharing)
--   το βίντεο της παρουσίασης [ΕΔΩ](https://photos.app.goo.gl/5ZrCVbTDvHbX3q3W7)
--   οι φωτογραφίες της εκδήλωσης [ΕΔΩ](https://photos.app.goo.gl/5ZrCVbTDvHbX3q3W7)
+  - η εισήγηση [ΕΔΩ](https://docs.google.com/document/d/1ohom8PYAwlr2c5kiDkHBa4sWxvi6IvCw/edit?usp=sharing&ouid=102187192160075608820&rtpof=true&sd=true)
+  - η παρουσίαση [ΕΔΩ](https://docs.google.com/presentation/d/1qON_y1dBDeFcuuOoXocHfL4PGx_sD82t1_WqpAAiZqU/edit?usp=sharing)
+  - το βίντεο της παρουσίασης [ΕΔΩ](https://photos.app.goo.gl/5ZrCVbTDvHbX3q3W7)
+  - οι φωτογραφίες της εκδήλωσης [ΕΔΩ](https://photos.app.goo.gl/5ZrCVbTDvHbX3q3W7)
 - Αποθετήριο ανάρτησης όλων των δεδομένων του προγράμματος στην πλατφόρμα GitHub (https://github.com/fkoutsakas/precision-farming)
 - Αφισάκι και σχετικά φυλλάδια, ανάρτηση στην ιστοσελίδα του σχολείου
 
